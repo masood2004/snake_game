@@ -15,7 +15,7 @@ Welcome to the Snake Game! This is a Python implementation of the classic Snake 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/masood2004/snake_game.git
    cd snake-game
    ```
 
